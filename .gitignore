@@ -1,2 +1,19 @@
-.import
+# Godot-specific ignore rules
+.import/
+.godot/
+.export/
+*.import
+*.translation
+
+# Editor cache/config files
+.godot/editor/
+.godot/shader_cache/
+.godot/uid_cache.bin
+*.vulkan.cache
+
+# OS-specific junk
+.DS_Store
+Thumbs.db
+
+# Logs
 logs/
