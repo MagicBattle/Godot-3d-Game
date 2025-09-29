@@ -1,5 +1,5 @@
 63f7b34db8d8cdea90c76aacccf841ec
-::res://::1759106954
+::res://::1759170404
 ::res://art/::1759106954
 body.tres::StandardMaterial3D::-1::1759106413::0::1::::<><><>0<>0<><>::
 eye.tres::StandardMaterial3D::-1::1759106413::0::1::::<><><>0<>0<><>::
@@ -15,10 +15,10 @@ LICENSE.txt::TextFile::-1::1759106413::0::1::::<><><>0<>0<><>::
 Montserrat-Medium.ttf::FontFile::6505293508080888906::1759106413::1759106413::1::::<><><>0<>0<>1eb268033ecd125d99a1f1687f4c989d<>res://.godot/imported/Montserrat-Medium.ttf-e832861e4ad4110e172112dc430c04b0.fontdata::
 ::res://other/::1759106949
 README.md::TextFile::-1::1759106785::0::1::::<><><>0<>0<><>::
-::res://scenes/::1759106935
-main.tscn::PackedScene::1940543232055977835::1759106909::0::1::::<><><>0<>0<><>::uid://ceuu150fmggvr::::res://scenes/player.tscn
-mob.tscn::PackedScene::7450544337918621628::1759106934::0::1::::<><><>0<>0<><>::uid://c5wp01kn08qxe::::res://mob.gd<>uid://bicorb7we351t::::res://art/mob.glb
+::res://scenes/::1759131144
+main.tscn::PackedScene::1940543232055977835::1759131144::0::1::::<><><>0<>0<><>::uid://ceuu150fmggvr::::res://scenes/player.tscn
+mob.tscn::PackedScene::7450544337918621628::1759106934::0::1::::<><><>0<>0<><>::uid://c5wp01kn08qxe::::res://scripts/mob.gd<>uid://bicorb7we351t::::res://art/mob.glb
 player.tscn::PackedScene::5096146682080455107::1759106935::0::1::::<><><>0<>0<><>::uid://d0ypm0v45pwdv::::res://art/player.glb<>uid://cnd3r3qyfy5so::::res://scripts/player.gd
-::res://scripts/::1759106935
-mob.gd::GDScript::6924879768536141194::1759106413::0::1::::<>CharacterBody3D<><>0<>0<><>::
+::res://scripts/::1759131144
+mob.gd::GDScript::6924879768536141194::1759131144::0::1::::<>CharacterBody3D<><>0<>0<><>::
 player.gd::GDScript::5693221398705431802::1759106413::0::1::::<>CharacterBody3D<><>0<>0<><>::
