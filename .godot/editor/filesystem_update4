@@ -1,4 +1,8 @@
-res://scripts/player.gd
-res://scenes/player.tscn
 res://scenes/main.gd
+res://scenes/mob.tscn
+res://scripts/mob.gd
+res://scripts/player.gd
 res://scenes/main.tscn
+res://scenes/player.tscn
+res://scenes/score_label.gd
+res://scenes/music_player.tscn
